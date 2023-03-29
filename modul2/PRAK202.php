@@ -4,7 +4,7 @@
     <style>
         .error {color: red;}
     </style>
-    <title>Soal 2 - Dwipayana Ismulya</title>
+    <title>Soal 2 - Muhammad Alghifari</title>
 </head>
 <body></body>
     <?php
